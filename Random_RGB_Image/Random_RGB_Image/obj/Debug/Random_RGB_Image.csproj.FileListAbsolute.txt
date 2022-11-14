@@ -1,0 +1,8 @@
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\bin\Debug\Random_RGB_Image.exe.config
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\bin\Debug\Random_RGB_Image.exe
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\bin\Debug\Random_RGB_Image.pdb
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\obj\Debug\Random_RGB_Image.csproj.AssemblyReference.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\obj\Debug\Random_RGB_Image.csproj.SuggestedBindingRedirects.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\obj\Debug\Random_RGB_Image.csproj.CoreCompileInputs.cache
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\obj\Debug\Random_RGB_Image.exe
+C:\Users\FelixEdenborgh\Documents\Csharp\Random_RGB_Image\Random_RGB_Image\obj\Debug\Random_RGB_Image.pdb
